@@ -1,0 +1,9 @@
+name: "Baikal"
+description: "Baikal CalDAV Server"
+version: "1.0.0"
+slug: "baikal"
+init: false
+arch:
+  - aarch64
+  - amd64
+  
