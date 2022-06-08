@@ -4,7 +4,7 @@ FROM $BUILD_FROM
 # Install requirements for add-on
 RUN \
   apk add --no-cache \
-    example_alpine_package
+    mariadb
 
 # COPY data for add-on
 COPY run.sh /
