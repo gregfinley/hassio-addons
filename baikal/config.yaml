@@ -1,6 +1,6 @@
 name: "Baikal"
 description: "Baikal CalDAV Server"
-version: "1.0.1"
+version: "1.0.2"
 slug: "baikal"
 init: false
 arch:
